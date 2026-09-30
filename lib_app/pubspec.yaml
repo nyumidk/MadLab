@@ -1,0 +1,23 @@
+name: flutter_file_storage_demo
+description: Demo app for external libraries, path_provider, and file I/O.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # PART 1: external libraries added via pubspec.yaml
+  path_provider: ^2.1.2
+  # Used as a web-compatible fallback, since dart:io file access
+  # doesn't work in a browser.
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

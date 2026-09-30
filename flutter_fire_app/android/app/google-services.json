@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1087311126158",
+    "firebase_url": "https://flutter-fire-60e7e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutter-fire-60e7e",
+    "storage_bucket": "flutter-fire-60e7e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087311126158:android:04c5e60004487ebd8633df",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fire_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdP6DpSRPLS4L4KHZB9JwWHohsmtY4grQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
